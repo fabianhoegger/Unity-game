@@ -9,17 +9,17 @@ hand combat
 enemy ai -navmesh + triggers
 
 Menu
-![Menu](image.jpg)
-Character
-![Menu](image.jpg)
+![Menu](menu.png)
+character
+![character](character.png)
 Zombies
-![Menu](image.jpg)
+![Zombies](zombie.png)
 Fighting
-![Menu](image.jpg)
+![Fighting](fighting.png)
 View
-![Menu](image.jpg)
-Colliders
-![Menu](image.jpg)
+![View](view2.png)
+collider
+![collider](collider.png)
 
 
 
