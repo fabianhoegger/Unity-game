@@ -18,7 +18,7 @@ enemy ai -navmesh + triggers
 
 - ![Fighting](fighting.png)
 
-- ![View](view2.png)c
+- ![View](view2.png)
 
  - ![collider](collider.png)
 
