@@ -1,12 +1,10 @@
-# Unity-game
+# Garitsa Zombie Apocalypse
 ## Αναφορά
 ## Φάμπιαν Χαίγκερ ,ΑΜ:2016187
 ### Περιγραφή
 3d Person Action Game
-
--Στόχος clear the zombies from Γαριτσα
-hand combat
-enemy ai -navmesh + triggers
+Στόχος clear the zombies from Γαριτσα
+gameplay : hand combat
 
 - ![view1](desktop_game.png)
 
@@ -24,7 +22,7 @@ enemy ai -navmesh + triggers
 
 
 [ Watch Gameplay here](https://www.youtube.com/watch?v=sgApikWOG1o)
-
+[executable](https://drive.google.com/file/d/1CLv6SXq1bTQiEMiN5gyBB5v2Bdl4cpSb/view?usp=sharing)
 
 ### Πακέτα που χρησιμοποιήσα
 1. [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine) -Κάμερα
