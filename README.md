@@ -3,9 +3,27 @@
 ## Φάμπιαν Χαίγκερ ,ΑΜ:2016187
 ### Περιγραφή
 3d Person Action Game
+
 -Στόχος clear the zombies from Γαριτσα
 hand combat
 enemy ai -navmesh + triggers
+
+Menu
+![Menu](image.jpg)
+Character
+![Menu](image.jpg)
+Zombies
+![Menu](image.jpg)
+Fighting
+![Menu](image.jpg)
+View
+![Menu](image.jpg)
+Colliders
+![Menu](image.jpg)
+
+
+
+
 
 ### Πακέτα που χρησιμοποιήσα
 1. [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine) -Κάμερα
@@ -27,8 +45,21 @@ enemy ai -navmesh + triggers
 - Χρήση Baked Light   
 
 ### Κώδικας
+
 > Για την κίνηση του χαρακτήρα χρησιμοποιείται το Move.cs και το Punched.cs το οποίο καλείται όταν γίνεται σύγκρουση μεταξύ των άκρων του χαρακτήρα και των εχθρών.
  Μέσα από αυτούς τους κώδικες αλλάζουν και τα animation σύμφωνα με τον παρακάτω animator
  ![Character Animator](image.jpg)
+ 
+ 
  >Για την κίνηση των εχθρών χρησιμοποιείται ο κώδικας BasicEnemy.cs και EnemyTerritory.cs.Το 2ο χρησιμοποιείται ώστε να ενεργοποιούνται οι έχθροι όταν ο παίκτης εισέλθει σε μια περιοχή.
   Ακομη Χρησιμοποιείται το Zpunch.cs οταν εχθρος χτυπά των παίκτη.
+  ![Zombie Animator](image.jpg)
+  ### Εργαλεία
+   >Για την δημουργία του terrain χρησιμοποιήθηκε το εργαλείο της Unity συνδιάζοντας textures και meshes
+   >Για την χρήση animation χρησιμοποιήθηκε animator και animation retargeting
+   
+   ### Χρήσιμες Ιστοσελίδες και Βίντεο
+   https://gamedevacademy.org/unity-animator-tutorial/
+   https://www.youtube.com/watch?v=vTBObJBXYQ4&ab_channel=HowToDo
+   https://www.youtube.com/watch?v=vTBObJBXYQ4&ab_channel=HowToDo
+   
