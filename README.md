@@ -8,6 +8,7 @@
 hand combat
 enemy ai -navmesh + triggers
 
+- ![view1](desktop_game.png)
 
 - ![Menu](menu.png)
 
@@ -48,12 +49,12 @@ enemy ai -navmesh + triggers
 
 > Για την κίνηση του χαρακτήρα χρησιμοποιείται το Move.cs και το Punched.cs το οποίο καλείται όταν γίνεται σύγκρουση μεταξύ των άκρων του χαρακτήρα και των εχθρών.
  Μέσα από αυτούς τους κώδικες αλλάζουν και τα animation σύμφωνα με τον παρακάτω animator
- ![Character Animator](image.jpg)
+ ![Character Animator](anim_control.png)
  
  
  >Για την κίνηση των εχθρών χρησιμοποιείται ο κώδικας BasicEnemy.cs και EnemyTerritory.cs.Το 2ο χρησιμοποιείται ώστε να ενεργοποιούνται οι έχθροι όταν ο παίκτης εισέλθει σε μια περιοχή.
   Ακομη Χρησιμοποιείται το Zpunch.cs οταν εχθρος χτυπά των παίκτη.
-  ![Zombie Animator](image.jpg)
+  ![Zombie Animator](zombanim.png)
   ### Εργαλεία
    >Για την δημουργία του terrain χρησιμοποιήθηκε το εργαλείο της Unity συνδιάζοντας textures και meshes
    >Για την χρήση animation χρησιμοποιήθηκε animator και animation retargeting
