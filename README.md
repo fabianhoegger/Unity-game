@@ -23,7 +23,7 @@ enemy ai -navmesh + triggers
  - ![collider](collider.png)
 
 
-
+![video](https://www.youtube.com/watch?v=sgApikWOG1o)
 
 
 ### Πακέτα που χρησιμοποιήσα
