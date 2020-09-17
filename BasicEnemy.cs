@@ -56,10 +56,7 @@ public class BasicEnemy : MonoBehaviour
                 }
             }
         }
-        else
-        {
-            Destroy(Zombie);
-        }
+        
         
     }
 
