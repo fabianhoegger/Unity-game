@@ -22,7 +22,7 @@ gameplay : hand combat
 
 
 - [ Watch Gameplay here](https://www.youtube.com/watch?v=sgApikWOG1o)
-- [ Download executable](https://drive.google.com/file/d/1CLv6SXq1bTQiEMiN5gyBB5v2Bdl4cpSb/view?usp=sharing)
+- [ Download executable](https://drive.google.com/file/d/1KjwZX5nUTi0Axppa31r51Ig8raorerqW/view?usp=sharing)
 - [Presentation](https://github.com/fabianhoegger/Unity-game/blob/master/parousiasi_psifiakoys.odp)
 
 
