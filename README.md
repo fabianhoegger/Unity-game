@@ -23,6 +23,8 @@ gameplay : hand combat
 
 - [ Watch Gameplay here](https://www.youtube.com/watch?v=sgApikWOG1o)
 - [ Download executable](https://drive.google.com/file/d/1CLv6SXq1bTQiEMiN5gyBB5v2Bdl4cpSb/view?usp=sharing)
+- [Presentation](https://github.com/fabianhoegger/Unity-game/blob/master/parousiasi_psifiakoys.odp)
+
 
 ### Πακέτα που χρησιμοποιήσα
 1. [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine) -Κάμερα
